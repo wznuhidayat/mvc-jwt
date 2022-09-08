@@ -1,0 +1,13 @@
+{
+    "name": "dacas/mvc-jwt",
+    "authors": [
+        {
+            "name": "wznuhidayat",
+            "email": "nextwznu@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "firebase/php-jwt": "^6.3"
+    }
+}
